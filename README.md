@@ -1,12 +1,13 @@
 # 🎧 Beats by Dre – Product Landing Page
 
-A modern and responsive front-end landing page for **Beats by Dre** headphones, showcasing sleek design, smooth transitions, and mobile-friendly layout.
+A modern and responsive front-end landing page for **Beats by Dre** headphones, showcasing sleek design, smooth transitions, and mobile-friendly layout. Build on tutorial from Belimcode.
+**Shoutout to Belimcode for amazing tutorial**
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [View Demo](https://your-live-link.com)
+👉 [View Demo](https://devanshk9.github.io/Beats_by_Dre_Website/)
 
 ---
 
@@ -21,7 +22,8 @@ A modern and responsive front-end landing page for **Beats by Dre** headphones, 
 
 ## 📸 Preview
 
-_Add a screenshot or GIF here (optional)_
+![Screenshot](assets/img/ss.png)
+
 
 ---
 
@@ -34,5 +36,5 @@ _Add a screenshot or GIF here (optional)_
 
 ---
 
-## 📁 Folder Structure
+
 
