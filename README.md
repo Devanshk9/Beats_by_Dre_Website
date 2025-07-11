@@ -15,8 +15,8 @@ A modern and responsive front-end landing page for **Beats by Dre** headphones, 
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)  
-- Google Fonts & Font Awesome  
+- JavaScript  
+- Google Fonts & Remixicons  
 
 ---
 
